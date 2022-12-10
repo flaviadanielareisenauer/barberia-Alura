@@ -1,13 +1,24 @@
-body {
-  background: #cccccc;
-}
-
 #banner {
   width: 100%;
 }
 
-h1 {
+.principal {
+  background: #cccccc;
+  padding: 20px;
   text-align: center;
+}
+
+.diferenciales {
+  background: #ffffff;
+  padding: 30px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.items {
+  font-size: italic;
 }
 
 p {
@@ -23,4 +34,13 @@ em strong {
   font-size: 20px;
 }
 
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
 
+.imgDiferencial {
+    width: 50%;
+}
