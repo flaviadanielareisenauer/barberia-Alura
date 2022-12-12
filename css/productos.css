@@ -1,5 +1,12 @@
 header {
   background: #bbbbbb;
+  padding: 20px 0;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
 }
 
 nav li {
@@ -14,3 +21,10 @@ nav a {
   font-size: 22px;
   text-decoration: none;
 }
+
+.caja {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
